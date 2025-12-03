@@ -1,8 +1,8 @@
-# Fujifilm Recipes Helper (CLI)
+# Fujifilm Recipes app (CLI)
 
 ## Descripción
 
-Fujifilm Recipes Helper es una aplicación de línea de comandos (CLI) desarrollada en Python que guía al usuario en la creación de una “recipe” completa para cámaras Fujifilm. 
+Fujifilm Recipes app es una aplicación de línea de comandos (CLI) desarrollada en Python que guía al usuario en la creación de una “recipe” completa para cámaras Fujifilm. 
 
 A través de un menú interactivo en consola, la aplicación permite seleccionar:
 
